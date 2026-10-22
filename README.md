@@ -1,3 +1,5 @@
+![Hami Portfolio Banner](hami-banner.jpg)
+
 # Hey, I'm Hami 👋
 
 ### Frontend Developer in Progress
